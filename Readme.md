@@ -2,7 +2,8 @@
 ### **College email:** iit2021188@iiita.ac.in <br>
 
 ### **Frontend Deployment Link**: https://67101cf03a6926fdd55daaff--brilliant-gumdrop-d803b2.netlify.app <br>
-### **Frontend Deployment Link**: https://sportsbookingbackend.onrender.com/api <br>
+### **Backend Deployment Link**: https://sportsbookingbackend.onrender.com/api <br>
+### **Frontend Github Link**: https://github.com/SakshamGrover09/SportsBookingFrontend <br>
 
 ## **Sports Booking Backend** <br>
 This is the backend service for the Sports Booking App, built using Node.js, Express, and MongoDB. It provides RESTful APIs for managing sports centres, bookings, user authentication, and more.
