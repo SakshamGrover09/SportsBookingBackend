@@ -1,15 +1,15 @@
-**College ID:** IIT2021188: Saksham Grover
-**College email:** iit2021188@iiita.ac.in
+**College ID:** IIT2021188: Saksham Grover <br>
+**College email:** iit2021188@iiita.ac.in <br>
 
-**Frontend Deployment Link**: https://67101cf03a6926fdd55daaff--brilliant-gumdrop-d803b2.netlify.app/login
-**Frontend Deployment Link**: https://sportsbookingbackend.onrender.com/api
+**Frontend Deployment Link**: https://67101cf03a6926fdd55daaff--brilliant-gumdrop-d803b2.netlify.app/login <br>
+**Frontend Deployment Link**: https://sportsbookingbackend.onrender.com/api <br>
 
-**Sports Booking Backend**
+**Sports Booking Backend** <br>
 This is the backend service for the Sports Booking App, built using Node.js, Express, and MongoDB. It provides RESTful APIs for managing sports centres, bookings, user authentication, and more.
 
-**Directory Structure**
+**Directory Structure** <br>
 
-sports-booking-backend/
+sports-booking-backend/ <br>
 │
 ├── models/
 │   ├── User.js           // User model schema with bcrypt password hashing
