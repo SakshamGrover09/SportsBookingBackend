@@ -1,13 +1,13 @@
-###**College ID:** IIT2021188: Saksham Grover <br>
-###**College email:** iit2021188@iiita.ac.in <br>
+### **College ID:** IIT2021188: Saksham Grover <br>
+### **College email:** iit2021188@iiita.ac.in <br>
 
-###**Frontend Deployment Link**: https://67101cf03a6926fdd55daaff--brilliant-gumdrop-d803b2.netlify.app/login <br>
-###**Frontend Deployment Link**: https://sportsbookingbackend.onrender.com/api <br>
+### **Frontend Deployment Link**: https://67101cf03a6926fdd55daaff--brilliant-gumdrop-d803b2.netlify.app/login <br>
+### **Frontend Deployment Link**: https://sportsbookingbackend.onrender.com/api <br>
 
-##**Sports Booking Backend** <br>
+## **Sports Booking Backend** <br>
 This is the backend service for the Sports Booking App, built using Node.js, Express, and MongoDB. It provides RESTful APIs for managing sports centres, bookings, user authentication, and more.
 
-##**Directory Structure** <br>
+## **Directory Structure** <br>
 
 sports-booking-backend/ <br>
 │
@@ -30,46 +30,46 @@ sports-booking-backend/ <br>
 ├── server.js             // Entry point for starting the Express server <br> 
 └── README.md             // Documentation for the backend <br>
 
-##**Setup Instructions** <br>
+## **Setup Instructions** <br>
 
-###**Clone the Repository:** <br>
+### **Clone the Repository:** <br>
 
 git clone https://github.com/your-repository/sports-booking-backend.git <br>
 cd sports-booking-backend
 
-###**Install Dependencies:** <br>
+### **Install Dependencies:** <br>
 
 npm install <br>
 Create a .env File: 
 
-###**Create a .env file in the root directory and add the following environment variables:** <br>
+### **Create a .env file in the root directory and add the following environment variables:** <br>
 
 MONGO_URI=your_mongodb_connection_string <br>
 JWT_SECRET=your_jwt_secret_key <br>
 PORT=5000
 
-###**Run the Server:**
+### **Run the Server:**
 
 node server.js <br>
 The server will start on http://localhost:5000. <br>
 
-##**API Endpoints**
+## **API Endpoints**
 
-###**Auth Routes:** <br>
+### **Auth Routes:** <br>
 
 POST /api/auth/register - Create a new user. <br>
 POST /api/auth/login - Login user and receive a JWT token. <br>
 
-###**Centre Routes:** <br>
+### **Centre Routes:** <br>
 
 GET /api/centres - Get a list of all centres.
 
-###**Booking Routes:** <br>
+### **Booking Routes:** <br>
 
 POST /api/bookings - Create a new booking. <br>
 GET /api/bookings - Get bookings for a specific centre, sport, and date.
 
-##**Technologies Used** <br>
+## **Technologies Used** <br>
 
 Node.js, Express.js <br>
 MongoDB & Mongoose  <br>
