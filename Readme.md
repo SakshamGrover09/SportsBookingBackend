@@ -1,7 +1,7 @@
 ### **College ID:** IIT2021188: Saksham Grover <br>
 ### **College email:** iit2021188@iiita.ac.in <br>
 
-### **Frontend Deployment Link**: https://67101cf03a6926fdd55daaff--brilliant-gumdrop-d803b2.netlify.app/login <br>
+### **Frontend Deployment Link**: https://67101cf03a6926fdd55daaff--brilliant-gumdrop-d803b2.netlify.app <br>
 ### **Frontend Deployment Link**: https://sportsbookingbackend.onrender.com/api <br>
 
 ## **Sports Booking Backend** <br>
